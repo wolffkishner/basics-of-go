@@ -4,6 +4,6 @@
 
 ### Currently Learnt
 
-- Initialisatio
+- Initialisation
 - Variables
 - Local Module Imports
